@@ -1,4 +1,3 @@
-# Starter Code for cs56 lab04, f18
+Lab 04 - Ronald Hoang
 
-* <https://ucsb-cs56-f18.github.io/lab/lab04/>
-
+Starting code from: https://github.com/ucsb-cs56-f18/STARTER_lab04
